@@ -1,0 +1,26 @@
+.add-container{
+    background-image: linear-gradient(to right,red,blue);
+    background-size: cover;
+    height:100vh;
+}
+.add-options-container{
+    background-color: white;
+    padding:5px;
+    border-radius: 10px;
+    /* height:500px; */
+    width:500px;
+    margin-left: 500px;
+    
+}
+.text-colour{
+    color: black;
+    font-weight: bold;
+    margin-right: 10px;
+}
+.text-box-style{
+    border-radius: 10px;
+    width: 220px;
+}
+.button{
+    text-align: center;
+}
